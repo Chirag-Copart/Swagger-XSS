@@ -1,0 +1,10 @@
+{
+    "url": "https://chirag-copart.github.io/Swagger-XSS/test.yaml",
+    "urls": [{
+        "url": "https://chirag-copart.github.io/Swagger-XSS/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://chirag-copart.github.io/Swagger-XSS/test2.yaml",
+        "name": "Foo2"
+    }]
+}
